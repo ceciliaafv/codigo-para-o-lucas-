@@ -1,0 +1,149 @@
+---
+title: "MUSICAAAA"
+subtitle: "jao essa eu fiz para o nosso amor"
+author: "cecilia"
+date: '2022-05-27'
+output:
+  html_document:
+    theme: "yeti"
+    toc: true
+    toc_float: true
+    code_folding: hide
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## jao 
+### **essa eu fiz para o nosso amor**
+
+
+
+Essa eu fiz pra nós dois bêbados  
+
+Dançando numa festa de gente rica e sem graça  
+
+Essa eu fiz pra toda letra do Cazuza  
+
+Que eu decorei porque 'cê disse que gostava  
+
+Essa eu fiz pra sua mãe só porque ela é tão linda  
+
+E sempre sabe o que dizer  
+
+Essa eu fiz pras tuas quedas na calçada  
+
+Tua risada alta  
+
+Essa eu fiz pra você
+
+
+**refrao**
+
+Eu já tinha desistido de mim  
+
+Minha vida é sempre assim (É)  
+
+Eu tenho a minha fama de sofredor  
+
+Então não conta pra ninguém (Shh)  
+
+Mas essa eu fiz pro nosso amor  
+
+Oh oh oh  
+
+Essa eu fiz pro nosso amor  
+
+Oh oh oh  
+
+Essa eu fiz pro nosso amor  
+
+
+**acaba refrao**
+
+Essa eu fiz pra Alameda Três  
+
+Pra Avenida São João, cada lugar que a gente se beijou  
+
+Essa eu fiz pra minha jaqueta jeans  
+
+Pra minha blusa do Taz, toda roupa que você tirou  
+
+Essa eu fiz pra todo show lotado em que eu perdi a letra  
+ 
+Porque eu pensei em você  
+
+Essa eu fiz pra cada estrela linda  
+
+Que por baixo da língua você me fez ver  
+
+Eu já tinha desistido de mim  
+
+Minha vida é sempre assim (É)  
+
+Eu tenho a minha fama de sofredor  
+
+Então não conta pra ninguém (Shh)  
+
+**refrao**
+
+
+Mas essa eu fiz pro nosso amor  
+
+Oh oh oh
+Essa eu fiz pro nosso amor  
+
+Oh oh oh  
+
+Essa eu fiz pro nosso amor  
+
+**acaba refrao**
+
+
+Essa eu fiz pra cada passo nosso  
+
+Cada dia lindo da nossa história  
+
+É cedo essa sobre o nosso amor  
+
+A também de ser do dia em que, 'cê foi embora  
+
+Sobre minha blusa do Taz desbotada  
+
+Sobre sua mãe tão muda quando eu ligava  
+
+Sobre eu bebendo sem você do meu lado  
+
+Sobre eu chorando quando toca Exagerado  
+ 
+Eu já tinha desistido de mim  
+ 
+Minha vida é sempre assim (É)  
+
+Eu tenho a minha fama de sofredor  
+
+Então não conta pra ninguém  
+
+Mas essa eu fiz pro nosso amor, oh oh oh  
+
+Essa eu fiz pro nosso amor  
+
+Oh oh oh  
+
+Essa eu fiz pro nosso amor  
+
+![](https://c.tenor.com/CcZonZ6yArYAAAAC/jao-j%C3%A3o.gif)
+
+![](https://i.pinimg.com/originals/13/1e/5d/131e5dd763c630ab46cd28d13412c4b2.gif)
+
+
+
+```{r}
+library(wordcloud2)
+wordcloud2(demoFreq)
+```
+
+
+
